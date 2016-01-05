@@ -35,13 +35,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Bomao Huang
+  name: "Bomao Huang"
   avatar: avatar.jpg
   job: "iOS Developer"
-  bio: "I am Bomao Huang, an iOS Developer. I love anything about Internet technologies, especially on mobile. Take a look of my blogger posts, and hope we share soenthing useful."
-  email: williamwong89@gmail.com
+  bio: "I am Bomao Huang, an iOS Developer. I love anything about Internet technologies, especially on mobile. Take a look of my blogger posts, and hope that is useful to you."
+  email: "williamwong89@gmail.com"
   disqus-shortname:
-  twitter: william_Wong89
+  twitter: "william_Wong89"
   facebook: #username
   google:
     plus: #username
