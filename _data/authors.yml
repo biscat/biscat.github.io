@@ -1,8 +1,11 @@
 # Authors
 # You can set another author using as many attributs as a site owner does.
 
-Bomao:
+author:
   name: Bomao
   email: williamwong89@gmail.com
   bio: "I'm Bomao Huang, an iOS Developer. I love all the things on Internet Technologies, especially on Mobile. Have a look of my blogger post, and hope my share is useful to you."
+  twitter:william_Wong89
+  linkedin:bomao-huang-94448626
+  github:biscat
 
