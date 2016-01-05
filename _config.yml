@@ -35,13 +35,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Bomao Huang
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  job: "iOS Developer"
+  bio: "I am Bomao Huang, an iOS Developer. I love anything about Internet technologies, especially on mobile. Take a look of my blogger posts, and hope we share soenthing useful."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: #williamwong89
   facebook: #username
   google:
     plus: #username
@@ -52,9 +52,9 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: #bomaohuang
   xing: #username
-  instagram: #username
+  instagram: #williamwong89
   lastfm: #username
   tumblr: #username
   pinterest: #username
