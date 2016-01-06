@@ -21,6 +21,7 @@ url:
 markdown:    kramdown
 highlighter:  pygments
 excerpt_separator: <!--more-->
+source: app
 
 kramdown:
   auto_ids: true
