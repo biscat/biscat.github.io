@@ -33,9 +33,9 @@ kramdown:
 owner:
   name: Bomao
   avatar: avatar.jpg
-  job: "iOS Developer"
-  bio: "An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland."
-  email: williamwong89@gmail.com
+  job:  "iOS Developer"
+  bio:  "An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland."
+  email:  williamwong89@gmail.com
   disqus-shortname: 
   twitter: william_wong89 #username
   facebook: #username
