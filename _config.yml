@@ -3,31 +3,26 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: 
-description: A simple and awesome blog theme powered by jekyll.
-# the base hostname & protocol for your site
-# If your project is placed in https://github.com/yourname/yourname.github.io at master branch
-# Then, the 'url' is: http://yourname.github.io
-# If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
-# Then, the 'url' is: http://yourname.github.io/projectname
-url: 
+title:       "Bomao's blog"
+description: 'An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland'
+url:         # the base hostname & protocol for your site
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-markdown:    kramdown
-highlighter:  pygments
+timezone:          Europe/Dublin
+markdown:          kramdown
+highlighter:       rouge
 excerpt_separator: <!--more-->
-source: app
+permalink:         /articles/:year-:month/:title
 
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
   enable_coderay: false
 
 #
@@ -39,23 +34,23 @@ owner:
   name: Bomao
   avatar: avatar.jpg
   job: "iOS Developer"
-  bio: "I am Bomao Huang, an iOS Developer. I love anything about Internet technologies, especially on mobile. Take a look of my blogger posts, and hope that is useful to you."
+  bio: "An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland."
   email: williamwong89@gmail.com
-  disqus-shortname:
-  twitter: william_Wong89
+  disqus-shortname: 
+  twitter: william_wong89 #username
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: #UA-62251910-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: biscat
+  github: biscat #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: bomao-huang-94448626
+  linkedin: #username
   xing: #username
-  instagram: williamwong89
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
