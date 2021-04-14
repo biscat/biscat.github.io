@@ -4,15 +4,15 @@
 ####################################
 #
 title:       "Bomao's blog"
-description: 'An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland'
-url:         # the base hostname & protocol for your site
+description: 'An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for ByteDance in Shenzhen China'
+url:         https://biscat.tech/
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Dublin
+timezone:          China/Beijing
 markdown:          kramdown
 highlighter:        pygments
 excerpt_separator: <!--more-->
@@ -30,6 +30,7 @@ kramdown:
   footnote_nr:    1
   entity_output:  as_char
   toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
 #
@@ -44,7 +45,7 @@ owner:
   bio:  "An iOS developer that loves anythings on Internet Technologies, especially on Mobile. Work for Fleetmatics in Dublin Ireland."
   email:  williamwong89@gmail.com
   disqus-shortname: 
-  twitter: william_wong89 #username
+  twitter: bomaohuang #username
   facebook: #username
   google:
     plus: #username
@@ -53,7 +54,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: biscat#username
+  github: biscat
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
